@@ -1,2 +1,1 @@
-# atividade-git
-atividade mg
+escreva algo
